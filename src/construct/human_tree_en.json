@@ -1,0 +1,485 @@
+{
+  "1_Biological_Characteristics": {
+    "Physical_Appearance": {
+      "Body_Build": {
+        "Height": "",
+        "Weight": "",
+        "Body_Habitus": ""
+      },
+      "Facial_Features": {
+        "Face_Shape": "",
+        "Eyes": "",
+        "Nose": "",
+        "Mouth": "",
+        "Ears": "",
+        "Eyebrows": "",
+        "Teeth": ""
+      },
+      "Skin": {
+        "Skin_Color": "",
+        "Skin_Texture": "",
+        "Distinguishing_Features": ""
+      },
+      "Hair": {
+        "Scalp_Hair": "",
+        "Facial_Hair": "",
+        "Body_Hair": ""
+      },
+      "Vocal_Characteristics": ""
+    },
+    "Physiological_Status": {
+      "Health_Status": "",
+      "Physical_Fitness": {
+        "Energy_Level": "",
+        "Strength": "",
+        "Endurance": "",
+        "Agility": "",
+        "Coordination": "",
+        "Cardiopulmonary_Parameters": ""
+      },
+      "Sensory_Functions": {
+        "Vision": "",
+        "Hearing": "",
+        "Olfaction": "",
+        "Taste": "",
+        "Tactile_Sensation": ""
+      },
+      "Genetic_Characteristics": {
+        "Hereditary_Disease_History": "",
+        "Distinct_Constitutional_Traits": ""
+      },
+      "Age_Related_Characteristics": {
+        "Life_Stage": "",
+        "Chronological_Age": ""
+      },
+      "Physiological_Parameters": {
+        "Blood_Pressure": "",
+        "Blood_Glucose": "",
+        "Blood_Lipids": "",
+        "Blood_Oxygen_Saturation": "",
+        "Body_Temperature": ""
+      },
+      "Reproduction_and_Endocrine_Function": {
+        "Reproductive_Health": "",
+        "Reproductive_History": "",
+        "Endocrine_Status": ""
+      },
+      "Handedness": ""
+    },
+    "Dynamic_Expressions": {
+        "Paralinguistic_Features": "",
+        "Habitual_Postures": "",
+        "Gait": "",
+        "Characteristic_Gestures": "",
+        "Facial_Microexpressions": "",
+        "Perceived_Energy": "",
+        "Eye_Contact": "",
+        "Interpersonal_Distance": "",
+        "Tactile_Interaction_Style": ""
+      },
+    "Biological_Rhythms": {
+        "Circadian_Rhythm": "",
+        "Energy_Cycles": "",
+        "Environmental_Sensitivity": "",
+        "Physical_Pain_Threshold": "",
+        "Hormonal_Influences": "",
+        "Dietary_Rhythms": "",
+        "Exercise_Rhythms": "",
+        "Bowel_Movement_Rhythms": "",
+        "Sleep_Characteristics": ""
+      }
+  },
+  "2_Psychological_Characteristics": {
+    "Cognitive_Abilities": {
+      "Intelligence_Level": "",
+      "Memory": "",
+      "Attention": "",
+      "Learning_Ability": {
+        "Learning_Style": "",
+        "Learning_Speed": "",
+        "Comprehension": ""
+      },
+      "Creativity": {
+        "Imagination": "",
+        "Thinking": "",
+        "Originality": ""
+      },
+      "Perception_and_Intuition": {
+        "Powers_of_Observation": "",
+        "Pattern_Recognition": "",
+        "Intuition": ""
+      }
+    },
+    "Thinking_Patterns": {
+      "Decision_Making_Style": {
+        "Tendencies": "",
+        "Speed": "",
+        "Strategies": "",
+        "Risk_Preferences": ""
+      },
+      "Problem_Solving": {
+        "Approach": "",
+        "Style": ""
+      },
+      "Cognitive_Tendencies": {
+        "Perspective": "",
+        "Orientation": "",
+        "Dimensions": "",
+        "Cognitive_Biases": ""
+      },
+      "Mental_Flexibility": {
+        "Openness": "",
+        "Adaptability": ""
+      }
+    },
+    "Psychological_State": {
+      "Sense_of_Fulfillment": "",
+      "Subjective_Well_Being": "",
+      "Sense_of_Security": "",
+      "Mental_Health": {
+        "Stress_Level": "",
+        "Stress_Resilience": "",
+        "Psychological_Disorders": ""
+      },
+      "Emotional_Baseline": "",
+      "Emotional_Volatility": "" 
+    },
+    "Self_Perception": {
+      "Metacognitive_Ability": "",
+      "Level_of_Self_Esteem": "",
+      "Self_Confidence": "",
+      "Self_Efficacy": "",
+      "Body_Image": "",
+      "Self_Reflection": {
+        "Frequency": "",
+        "Depth": ""
+      },
+      "Cognitive_Blind_Spots": "",
+      "Identity": {
+        "Clarity": "",
+        "Consistency": "",
+        "Degree_of_Acceptance": ""
+      }
+    }
+  },
+  "3_Personality_Characteristics": {
+    "Core_Personality": { 
+      "Openness": "",
+      "Conscientiousness": "",
+      "Extraversion": "",
+      "Agreeableness": "",
+      "Neuroticism": "",
+      "MBTI": ""
+    },
+    "Emotional_Characteristics": {
+      "Emotional_Spectrum": "",
+      "Emotional_Expression": "",
+      "Emotion_Regulation": "",
+      "Empathic_Ability": "",
+      "Sense_of_Humor": "",
+      "Sensitivity": "",
+      "Emotional_Resilience": ""
+    },
+    "Attitudinal_Tendencies": {
+      "Basic_Tendencies": "",
+      "Motivational_Tendencies": "",
+      "Social_Attitudes": "",
+      "Moral_Foundations": "",
+      "Ethical_Stance": "",
+      "Moral_Flexibility": "",
+      "Sense_of_Fairness": "",
+      "Attitude_Toward_Rules": ""
+    },
+    "Coping_with_Adversity": {
+      "Coping_Mechanisms": "",
+      "Psychological_Resilience": "",
+      "Recovery_Speed": "",
+      "Stress_Response_Patterns": "",
+      "Growth_Mindset": "",
+      "Locus_of_Control": ""
+    }
+  },
+  "4_Identity_Characteristics": {
+    "Life_Beliefs": {
+      "Values": "",
+      "Worldview": "",
+      "Moral_Principles": "",
+      "Faith": "",
+      "Political_Stance": "",
+      "Sources_of_Meaning": "",
+      "Public_Interest_Engagement": {
+        "Voluntary_Service": "",
+        "Social_Contribution": ""
+      }
+    },
+    "Motivations_and_Goals": {
+      "Primary_Driving_Forces": "",
+      "Hierarchy_of_Needs": "",
+      "Aspirations": "",
+      "Goals": {
+        "Long_Term": "",
+        "Short_Term": ""
+      }
+    },
+    "Social_Identity": {
+      "Cultural_Background": {
+        "Ethnicity": "",
+        "Upbringing_Environment": "",
+        "Language": "",
+        "Religious_Community": ""
+      },
+      "Socioeconomic_Status": {
+        "Current_Social_Class": "",
+        "Family_of_Origin_Class": "",
+        "Economic_Condition": "",
+        "Attitudes_Toward_Money": "",
+        "Composition_of_Income_Sources": "",
+        "Social_Mobility": ""
+      },
+      "Educational_Background": {
+        "Educational_Attainment": "",
+        "Alma_Mater": "",
+        "Field_of_Specialization": "",
+        "Mode_of_Education": "",
+        "Learning_Trajectory": ""
+      },
+      "Occupational_Role": {
+        "Industry": "",
+        "Position": "",
+        "Work_Experience": "",
+        "Job_Satisfaction": "",
+        "Employment_Type": "",
+        "Work_Arrangements": "",
+        "Work_Values": "",
+        "Vocational_Interests": ""
+      },
+      "Legal_and_Civic_Status": {
+        "Name": "",
+        "Citizenship_Status": "",
+        "Household_Registration": "",
+        "Military_Service_Status": "",
+        "Organizational_Memberships": ""
+      },
+      "Migration_and_Mobility": {
+        "Place_of_Birth": "",
+        "Residence": "",
+        "Migration_History": ""
+      },
+      "Social_Credit": {
+        "Professional_Reputation": "",
+        "Online_Reputation": "",
+        "Credit_History": "",
+        "Credibility_Indicators": ""
+      }
+    },
+    "Family_System": {
+      "Family_Roles": {
+        "Marital_Status": "",
+        "Status_within_Family": "",
+        "Family_Relationships": "",
+        "Division_of_Labor": ""
+      },
+      "Family_Structure": {
+        "Type": "",
+        "Relationships": ""
+      },
+      "Family_Communication_Patterns": {
+        "Openness": "",
+        "Emotional_Expression": ""
+      },
+      "Caregiving_Responsibilities": {
+        "Childcare": "",
+        "Elder_Care": "",
+        "Pet_Care": ""
+      },
+      "Family_Support": ""
+    },
+    "Life_Course": {
+        "Personal_Narrative": "",
+        "Key_Life_Events": "",
+        "Life_Stage": "",
+        "Future_Orientation": "",
+        "Existential_Concerns": "",
+        "Sense_of_Legacy": "",
+        "Inheritance_and_Legacy": ""
+      }
+  },
+  "5_Behavioral_Characteristics": {
+    "Behavioral_Habits": {
+      "Daily_Routine": "",
+      "Dietary_Habits": "",
+      "Clothing_Habits": "",
+      "Exercise_Habits": "",
+      "Hygiene_Habits": "",
+      "Idiosyncratic_Habits": "",
+      "Consumption_Habits": "",
+      "Addictive_Behaviors": "",
+      "Sleep_Habits": ""
+    },
+    "Lifestyle": {
+      "Daily_Schedule": {
+        "Regularity_of_Routine": "",
+        "Leisure_Activities": "",
+        "Dietary_Habits": "",
+        "Sleep_Quality": ""
+      },
+      "Emotional_Health": {
+        "Psychological_Self_Regulation": "",
+        "Coping_with_Social_Stress": ""
+      },
+      "Self_Care": {
+        "Exercise_Frequency": "",
+        "Dietary_Preferences": "",
+        "Personal_Care_Habits": ""
+      },
+      "Residential_Environment": {
+        "Physical_Space_Conditions": "",
+        "Housing_Type": "",
+        "Residential_Density": "",
+        "Interior_Layout": "",
+        "Geographic_Exposure": ""
+      },
+      "Living_Amenities": {
+        "Infrastructure": "",
+        "Convenience": "",
+        "Quality_of_Life":""
+      },
+      "Mobility_and_Travel": {
+        "Commuting_Mode": "",
+        "Travel_Frequency": "",
+        "Traffic_Safety_Habits": ""
+      }
+    },
+    "Social_Interactions": {
+      "Communication_Style": {
+        "Tendencies": "",
+        "Expression": "",
+        "Listening": ""
+      },
+      "Social_Style": {
+        "Roles": "",
+        "Preferences": "",
+        "Social_Networks": ""
+      },
+      "Interpersonal_Relationships": {
+        "Sense_of_Boundaries": "",
+        "Leadership": "",
+        "Intimate_Relationships": "",
+        "Attitudes_Toward_Authority": "",
+        "Conflict_Management": ""
+      },
+      "Online_Social_Interaction": "",
+      "Significant_Others": {
+        "Mentors_or_Role_Models": "",
+        "Collaborative_Partners": "",
+        "Supporters": "",
+        "Competitors": ""
+      }
+    },
+    "Interests_and_Skills": {
+      "Interests_and_Hobbies": "",
+      "Professional_Skills": "",
+      "Soft_Skills": "",
+      "Knowledge_Base": "",
+      "Creative_Outputs": "",
+      "Language_Use": ""
+    },
+    "Resource_Management": {
+        "Time_Management": "",
+        "Financial_Management": "",
+        "Spatial_Management": "",
+        "Energy_Management": "",
+        "Information_Management": "",
+        "Execution_Capacity": "",
+        "Knowledge_Management_Tools": ""
+      },
+    "Digital_Behavior": {
+      "Digital_Identity": {
+        "Platform_Screen_Name": "",
+        "Influence": "",
+        "Reputation_Labels": ""
+      },
+      "Platform_Use": {
+        "Platform_Ecosystem": "",
+        "Usage_Times_and_Rhythms": "",
+        "Primary_Purposes": ""
+      },
+      "Commonly_Used_Devices": "",
+      "Attitudes_Toward_Privacy": "",
+      "Digital_Literacy": "",
+      "Online_Behavioral_Style": {
+        "Interaction_Tendencies": "",
+        "Frequency_of_Content_Production": ""
+      },
+      "Digital_Well_Being": {
+        "Average_Daily_Time_Online": "",
+        "Attention_Management": "",
+        "Emotional_Impact": ""
+      }
+    },
+    "Material_Security": {
+      "Economic_Status": {
+        "Income_Level": "",
+        "Wealth_Accumulation": "",
+        "Level_of_Indebtedness": "",
+        "Use_of_Loans": ""
+      },
+      "Social_Capital": {
+        "Number_of_Strong_Ties": "",
+        "Coverage_of_Weak_Ties": "",
+        "Degree_of_Mobilizability": ""
+      },
+      "Cultural_Capital": {
+        "Qualifications_and_Certifications": "",
+        "Works_and_Professional_Record": "",
+        "Level_of_Cultural": ""
+      }
+    },
+    "Coping_Capacity": {
+      "Adaptation_to_Stress": "",
+      "Adaptation_to_Change": "",
+      "Crisis_Response": "",
+      "Self_Regulation": ""
+    },
+    "Knowledge_Base": {
+      "Aesthetic_Style": "",
+      "Artistic_Preferences": {
+        "Music": "",
+        "Film_and_Television": "",
+        "Literature": ""
+      },
+      "Cultural_Practices": {
+        "Festivals_and_Traditions": "",
+        "Cultural_Activities": ""
+      },
+      "Pathways_of_Taste_Formation": ""   
+    },
+    "Social_Engagement": {
+      "Public_Participation": "",
+      "Social_Issues_of_Concern": "",
+      "Mutual_Aid_and_Donations": ""
+    },
+    "Safety_and_Protection": {
+      "Personal_and_Family_Safety": {
+        "Emergency_Plans": "",
+        "Self_and_Mutual_Rescue_Skills": ""
+      },
+      "Digital_Security": "",
+      "Health_Safety": {
+        "Health_Management": "",
+        "Disease_Management": ""
+      },
+      "Financial_Security": {
+        "Risk_Control_Awareness": "",
+        "Emergency_Preparednes": ""
+      },
+      "Disaster_Preparedness": ""
+    },
+    "Cross_Cultural_Adaptation": {
+      "Adaptation_Strategies": "",
+      "Cultural_Sensitivity": "",
+      "Cross_Cultural_Communication": "",
+      "Reconstruction_of_Social_Networks": ""
+    }
+  }
+}
